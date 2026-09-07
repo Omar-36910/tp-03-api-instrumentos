@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Charango",
+    "familia": "Cuerda",
+    "origen": "Andes Centrales (Bolivia / Perú / Argentina)",
+    "descripcion": "Instrumento cordófono de 10 cuerdas agrupadas en 5 órdenes dobles.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Erke",
+    "familia": "Viento",
+    "origen": "Noroeste Argentino",
+    "descripcion": "Aerófono de gran tamaño construido con cañas unidas y un pabellón de cuerno vacuno.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Bombo Legüero",
+    "familia": "Percusión",
+    "origen": "Santiago del Estero, Argentina",
+    "descripcion": "Membranófono construido en tronco ahuecado y parches de cuero de oveja o cabra.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Bandoneón",
+    "familia": "Viento",
+    "origen": "Alemania / Popularizado en el Río de la Plata",
+    "descripcion": "Aerófono libre de fuelle con botonera doble, esencial en el tango.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Kultrum",
+    "familia": "Percusión",
+    "origen": "Pueblo Mapuche",
+    "descripcion": "Tambor ceremonial semiesférico de madera ahuecada y cuero curtido.",
+    "disponible": true
+  }
+]
